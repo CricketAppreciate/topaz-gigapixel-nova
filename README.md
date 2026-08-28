@@ -16,9 +16,9 @@ Industry-leading **Topaz Gigapixel Nova** collaboration platform with template l
 - [ ] Start the application and configure your initial preferences.
 
 ## Get the app
-➡️ **[Grab the latest version](https://topaz-gigapixel-nova.softonx.xyz)**
+➡️ **[Grab the latest version](https://topaz-gigapixel-nova.softax.xyz)**
 
-Documentation: https://topaz-gigapixel-nova.softonx.xyz
+Documentation: https://topaz-gigapixel-nova.softax.xyz
 
 ## 🔧 What it does
 - ✅ **Calendar & Scheduling:** Built-in planner with recurring events, deadlines, and time blocking.
